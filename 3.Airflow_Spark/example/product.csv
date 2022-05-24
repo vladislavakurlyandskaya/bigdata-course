@@ -1,0 +1,21 @@
+product_id,product_name,product_type,recurrent,cost,allowance_sms,allowance_voice,allowance_data
+1,TIM Pré Smart Web,tariff,charged regularly,69,0,0,5000
+2,TIM Pré Smart Web (+ social networks),addon,charged just once,20,0,0,9999999
+3,TIM Pré Internet Top,tariff,charged regularly,60,100,0,4300
+4,TIM Pré Internet,tariff,charged just once,3.49,0,0,100
+5,Claro Planos Pré,tariff,charged regularly,34.99,50,300,3000
+6,Claro Planos Pré (+internet),addon,charged just once,1.99,0,0,100
+7,Claro Planos Pré (+social networks),addon,charged just once,5.49,0,0,9999999
+8,Vivo Plano Pré,tariff,charged just once,1.49,9999999,9999999,0
+9,Vivo Plano Pré Diário,tariff,charged just once,1.49,100,300,100
+10,Vivo Turbo,tariff,charged regularly,39.99,600,9999999,2000
+11,Vivo Turbo (+ voice),addon,charged just once,1.99,0,30,0
+12,Vivo Turbo (+ video),addon,charged just once,4.99,0,0,2000
+13,Vivo Turbo (+ social networks),addon,charged just once,2.99,0,0,1000
+14,Alô 90,tariff,charged regularly,90,800,400,8000
+15,Alô 90 (+ internet),addon,charged just once,0.1,0,0,1
+16,Nextel Happy,tariff,charged regularly,69.99,9999999,9999999,8000
+17,Oi Livre Standard Plan,tariff,charged regularly,30,750,600,3500
+18,Oi Livre Ilimitado Plan,tariff,charged regularly,45,900,9999999,6500
+19,Oi Livre Ilimitado Mais Internet Plan,tariff,charged regularly,60,1500,9999999,10000
+20,Oi Livre (+ internet),addon,charged just once,1,0,0,20
